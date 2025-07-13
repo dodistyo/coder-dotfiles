@@ -1,0 +1,38 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "explorer.confirmDelete": false,
+    "files.associations": {
+        "*.pp": "hcl",
+        "*.sp": "hcl",
+        "*.spc": "hcl"
+    },
+    "workbench.editorAssociations": {
+        "*.tfplan": "default"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "yaml.schemas": {
+        "/home/dodistyo/.vscode/extensions/continue.continue-1.0.11-linux-x64/config-yaml-schema.json": [
+            ".continue/**/*.yaml"
+        ],
+        "/home/dodistyo/.vscode/extensions/continue.continue-1.0.14-linux-x64/config-yaml-schema.json": [
+            ".continue/**/*.yaml"
+        ],
+        "/home/dodistyo/.vscode/extensions/continue.continue-1.0.15-linux-x64/config-yaml-schema.json": [
+            ".continue/**/*.yaml"
+        ]
+    },
+    "excalidraw.theme": "dark",
+    "workbench.settings.applyToAllProfiles": [
+        "excalidraw.theme"
+    ],
+    "yaml.format.enable": false,
+    "vs-kubernetes": {
+        "vs-kubernetes.crd-code-completion": "enabled"
+    },
+    "geminicodeassist.project": "",
+    "diffEditor.codeLens": true,
+    "continue.enableTabAutocomplete": true,
+    "workbench.colorTheme": "Peacocks In Space",
+    "docker.extension.enableComposeLanguageServer": false
+}
