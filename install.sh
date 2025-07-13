@@ -7,7 +7,8 @@ echo "[dotfiles] Installing extensions..."
 if [ -f "$HOME/dotfiles/extensions.txt" ]; then
   while read -r extension; do
     if [ -n "$extension" ]; then
-      code --install-extension "$extension" || true
+      echo "Installing extension: $extension"
+      code-server --install-extension "$extension" || true
     fi
   done < "$HOME/dotfiles/extensions.txt"
 fi
