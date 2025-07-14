@@ -1,9 +1,6 @@
 4ops.terraform
-bracketpaircolordlw.bracket-pair-color-dlw
-docker.docker
 donjayamanne.githistory
 eamodio.gitlens
-ephoton.indent-switcher
 github.copilot
 github.copilot-chat
 github.vscode-github-actions
@@ -24,3 +21,4 @@ tamasfe.even-better-toml
 technosophos.vscode-helm
 usernamehw.remove-empty-lines
 vadimcn.vscode-lldb
+daylerees.rainglow
