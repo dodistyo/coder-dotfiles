@@ -33,6 +33,6 @@
     "geminicodeassist.project": "",
     "diffEditor.codeLens": true,
     "continue.enableTabAutocomplete": true,
-    "workbench.colorTheme": "Peacocks In Space",
+    "workbench.colorTheme": "Peacocks In Space (rainglow)",
     "docker.extension.enableComposeLanguageServer": false
 }
