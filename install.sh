@@ -19,9 +19,15 @@ if [ -f "$HOME/dotfiles/extensions.txt" ]; then
   done < "$HOME/dotfiles/extensions.txt"
 fi
 
-echo "[dotfiles] Copying settings.json..."
+echo "[dotfiles] Copying settings and extention..."
 
 mkdir -p "$HOME/.local/share/code-server/User"
 cp "$HOME/dotfiles/.vscode/settings.json" "$HOME/.local/share/code-server/User/settings.json"
+
+if [ -d "$HOME/dotfiles/.vscode/extensions" ]; then
+  echo "[dotfiles] Copying extensions folder..."
+  mkdir -p "$HOME/.local/share/code-server/extensions"
+  cp -r "$HOME/dotfiles/.vscode/extensions/"* "$HOME/.local/share/code-server/extensions/"
+fi
 
 echo "[dotfiles] Setup complete."

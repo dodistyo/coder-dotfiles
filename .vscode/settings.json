@@ -12,13 +12,13 @@
     "explorer.confirmDragAndDrop": false,
     "security.workspace.trust.untrustedFiles": "open",
     "yaml.schemas": {
-        "/home/dodistyo/.vscode/extensions/continue.continue-1.0.11-linux-x64/config-yaml-schema.json": [
+        "/home/developer/.local/share/code-server/extensions/continue.continue-1.0.11-linux-x64/config-yaml-schema.json": [
             ".continue/**/*.yaml"
         ],
-        "/home/dodistyo/.vscode/extensions/continue.continue-1.0.14-linux-x64/config-yaml-schema.json": [
+        "/home/developer/.local/share/code-server/extensions/continue.continue-1.0.14-linux-x64/config-yaml-schema.json": [
             ".continue/**/*.yaml"
         ],
-        "/home/dodistyo/.vscode/extensions/continue.continue-1.0.15-linux-x64/config-yaml-schema.json": [
+        "/home/developer/.local/share/code-server/extensions/continue.continue-1.0.15-linux-x64/config-yaml-schema.json": [
             ".continue/**/*.yaml"
         ]
     },

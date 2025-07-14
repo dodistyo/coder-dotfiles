@@ -1,7 +1,5 @@
 4ops.terraform
 bracketpaircolordlw.bracket-pair-color-dlw
-continue.continue
-dayle rees.peacocks-in-space
 docker.docker
 donjayamanne.githistory
 eamodio.gitlens
@@ -16,10 +14,6 @@ jalescardoso.remove-break-lines
 kisstkondoros.vscode-gutter-preview
 lucasmaffazioli.simpleminify
 lunuan.kubernetes-templates
-ms-azuretools.vscode-containers
-ms-azuretools.vscode-docker
-ms-kubernetes-tools.vscode-kubernetes-tools
-ms-vscode-remote.remote-containers
 nextbook.file-and-folder-icons
 pkief.material-icon-theme
 pomdtr.excalidraw-editor
